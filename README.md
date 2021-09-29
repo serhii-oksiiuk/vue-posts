@@ -1,4 +1,14 @@
 # vueposts
+```
+Create Post, 
+delete post,
+search, 
+post detail
+routers,
+pagination,
+filter posts
+
+```
 
 ## Project setup
 ```
